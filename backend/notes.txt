@@ -1,0 +1,9 @@
+fix: For bug fixes
+feat: For new features
+refactor: For restructuring the code without adding features or fixing bugs
+build: For changes in the build system or dependencies
+ci: For changes in the CI/CD configuration
+docs: For changes in the documentation only
+perf: For performance optimizations
+style: For fixing code formatting
+test: For adding or adjusting tests
